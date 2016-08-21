@@ -13,12 +13,12 @@ package dynamic_scope
 
 object Example {
 
+  def callMe()(implicit foo: FooMarker) = println(foo.value)
+
   def main(args: Array[String]) {
     test1()
     test2()
   }
-
-  def callMe()(implicit foo: FooMarker) = println(foo.value)
 
   def test1() = {
     implicit val foo = FooMarker(42)
