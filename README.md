@@ -6,4 +6,4 @@ Scala design patterns.
 2. Dynamic scope with implicit parameters
 3. Dynamic scope with state monad.
 4. Memoization.
-
+5. Swiss Army Knife
