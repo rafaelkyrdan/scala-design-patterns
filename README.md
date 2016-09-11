@@ -7,3 +7,4 @@ Scala design patterns.
 3. Dynamic scope with state monad.
 4. Memoization.
 5. Swiss Army Knife
+6. How to extend the library
