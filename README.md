@@ -8,3 +8,4 @@ Scala design patterns.
 4. Memoization.
 5. Swiss Army Knife
 6. How to extend the library
+7. Cake pattern / Self type annotations / Dependency injection
