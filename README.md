@@ -9,3 +9,4 @@ Scala design patterns.
 5. Swiss Army Knife
 6. How to extend the library
 7. Cake pattern / Self type annotations / Dependency injection
+8. Stackable trait pattern
